@@ -1,1 +1,2 @@
-zła nazwa
+﻿zła nazwa
+nowa zmiana do przechowalni
