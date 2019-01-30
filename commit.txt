@@ -1,5 +1,7 @@
 Witaj pierwszy.zmiana
 Zupe³nie nowa linia
+      dokladamy zmiany
+      na galezi master2
 Trzecia linia i zmiana
 
 
